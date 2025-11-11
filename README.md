@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagroop Dhaliwal</h1>
-<h3 align="center">3nd Year Computer Science Co-op Student @ Toronto Metropolitan University</h3>
+<h3 align="center">3rd Year Computer Science Co-op Student @ Toronto Metropolitan University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagroopd&label=Profile%20views&color=0e75b6&style=flat" alt="jagroopd" /> </p>
 
